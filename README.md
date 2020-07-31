@@ -1,6 +1,7 @@
 ## bmi_calculator
 
-A new Flutter application.
+A new Flutter applicataion.
+ used  a ui saw on dribble.com
 
 ## Getting Started
 
